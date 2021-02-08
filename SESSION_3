@@ -9,7 +9,7 @@ Things covered in today's session :
    1)It was suggested to solve 30 days coding challenge on Hackerrank.
    https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=problem-solving
    
-    2) For Language Proficiency, solve the questions from hackerrank.
+   2) For Language Proficiency, solve the questions from hackerrank.
       For C++ : https://www.hackerrank.com/domains/cpp
       For Java: https://www.hackerrank.com/domains/java
 
@@ -18,7 +18,7 @@ Things covered in today's session :
 -> Discuss approach for parenthesis Checker problem.
    https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1/?track=md-stack&batchId=144
 
-> Gone through Rest API working.
+-> Gone through Rest API working.
 
 -> Created Rest API using Django by following these blog.
    https://www.valentinog.com/blog/drf/
