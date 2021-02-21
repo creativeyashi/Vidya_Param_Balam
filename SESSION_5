@@ -1,3 +1,18 @@
 20/02/2021
 
 Task--
+
+ helping blog--https://medium.com/analytics-vidhya/django-rest-api-with-json-web-token-jwt-authentication-69536c01ee18
+
+1)  /v1/api/user/signup :
+
+	username
+	password
+	email
+	phonenumber
+  
+2)  /v1/api/user/signin :
+
+  	username
+  	password
+JWT authentication system
