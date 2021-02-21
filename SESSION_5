@@ -2,7 +2,7 @@
 
 Task--
 
- helping blog--https://medium.com/analytics-vidhya/django-rest-api-with-json-web-token-jwt-authentication-69536c01ee18
+Make a JWT authentication system-->
 
 1)  /v1/api/user/signup :
 
@@ -15,4 +15,6 @@ Task--
 
   	username
   	password
-JWT authentication system
+
+
+helping blog--https://medium.com/analytics-vidhya/django-rest-api-with-json-web-token-jwt-authentication-69536c01ee18
