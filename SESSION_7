@@ -44,7 +44,7 @@ Observations:
 Data structure -> sorted set -> set is a ds to store unique elements
 {0 1 2 3}
 
-TreeSet -> traverse to get output
+TreeSet -> traverse to get output    //for c++ can use Set<int>s;
 
 TreeSet<Integer> set = new TreeSet<Integer>
 
