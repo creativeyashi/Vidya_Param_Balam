@@ -1,1 +1,67 @@
 
+Interview Tips:
+
+
+1) Do not follow the old method of giving the intro  (Important)
+
+Tech interview
+1) test cases clear
+2) Observations bullets
+3) use observations to give diff solutions
+4) if code required make sure to write clean code
+
+
+Project interview
+
+1) projects in your resume
+2) never write any resume which you have not done
+3) projects descending -> project which is best should be on top
+4) techstack, think about (brainstorming)
+5) if you have blindly followed a practice -> false anwsers -> no debate -> take care of next time
+
+HR interview
+1) never be blunt with HR
+2) what will be the ctc? -> experience
+
+
+Tech-
+
+Given an array of integers remove the duplicate integers
+
+Test cases: -1 -2 -4 0 -1 2 4 -2
+Output - -4 -2 -1 0 2 4
+
+O(nlogn) - bar 
+0(n) - count sort -> extra space -> range too high cannot be used 1- 10^6
+
+Observations: 
+1) Sorting needs be done
+2) Sort input or i used a dats structure to sort
+
+-4 -2 -2 -1 -1 0 2 4
+
+
+Data structure -> sorted set -> set is a ds to store unique elements
+{0 1 2 3}
+
+TreeSet -> traverse to get output
+
+TreeSet<Integer> set = new TreeSet<Integer>
+
+for(int i : arr){
+	set.add(i)
+}
+
+
+
+Method 1 - 2 - For
+				loop 1 - arr[i]
+        loop2 - arr[i+1]
+        SC - O(1)
+        
+Method 2 - nlogn
+					arr[i] == arr[i+1]
+          SC- O(n)
+          
+method 3 - hashset 
+				Sc - O(n)
