@@ -52,7 +52,7 @@ for(int i : arr){
 	set.add(i)
 }
 
-
+Solutions:
 
 Method 1 - 2 - For
 				loop 1 - arr[i]
