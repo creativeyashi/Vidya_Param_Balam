@@ -64,15 +64,14 @@ Method 2 - nlogn
           SC- O(n)
           
 method 3 - hashset 
-				Sc - O(n)
+	  
+	  Sc - O(n)
 				
 				
 				
 				
 				
-				
-				
-				
+						
 PROJECT WORK--	
 
 1)Make api to send friend request
