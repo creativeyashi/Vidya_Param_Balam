@@ -73,5 +73,10 @@ method 3 - hashset
 				
 				
 				
-PROJECT WORK--				
+PROJECT WORK--	
+
+Make api to send friend request
+Api to check status of friend request
+Api to get all connection requests for a person at the given time
+Api to reject accept the request
 				
