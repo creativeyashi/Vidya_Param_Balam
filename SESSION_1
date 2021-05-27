@@ -3,7 +3,7 @@ DATE=24/01/2021
 Key Discussion:-
 
 1) The people who are not familiar with DSA need to confort themselves with basics of DSA. 
-   a) Till next session you need to cover  ARRAY,STRING,LINKED LIST, STACK,QUEUE.
+   a) Till next session you need to cover  ARRAY,STRING,LINKED LIST, STACK, QUEUE.
    b) For learning these topics you can refer this GFG course -->  https://practice.geeksforgeeks.org/batch/must-do-1
 
 2)  We will going to make a project "LinkedIn clone" in our upcoming sessions using Django.
